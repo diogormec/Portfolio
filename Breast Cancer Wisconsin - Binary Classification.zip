@@ -55,7 +55,6 @@ Additional Variable Information:
     6. Random Forest Classification with Recursive Feature Elimination and Cross-Validation (RFECV)
     7. Feature Extraction with Principal Component Analysis (PCA)
 5. **Model Selection**
-    1. Models One By One
         - Selected Features
         - Random Forest
         - Logistic Regression
@@ -68,6 +67,4 @@ Additional Variable Information:
         - Gradient Boosting Classifier
         - Stochastic Gradient Boosting (SGB)
         - Extreme Gradient Boosting
-    2. All Models
 6. **Model Comparison**
-    - Alternative
