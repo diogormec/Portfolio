@@ -104,12 +104,6 @@ breast-cancer-diagnosis-ml/
 - xgboost
 - missingno
 
-You can generate a `requirements.txt` file using:
-
-```bash
-pip freeze > requirements.txt
-```
-
 ---
 
 ## 🤝 Acknowledgements
