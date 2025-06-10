@@ -1,5 +1,3 @@
----
-
 ## 📂 Projects
 
 ### 🔍 Breast Cancer Diagnosis Using Machine Learning
@@ -33,5 +31,3 @@ An object detection project focused on identifying **zippers in images** using Y
 
 **Technologies:**
 `YOLOv8`, `Roboflow`, `Ultralytics`, `Python`, `OpenCV`, `Google Colab`
-
----
